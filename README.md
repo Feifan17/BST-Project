@@ -11,6 +11,7 @@
 ### To compile BST.java and kthOrder.java: 
 * type "cd [directory]"(the "[directory]" should be replaced by the location of where these two files have been stored.
 * type "javac BST.java kthOrder.java" to compile these two files. If they are compiled successfully, you should see three new files in the same directory: 
+                             
                              * BST.class
                              * BST$Node.class
                              * kthOrder.class.
